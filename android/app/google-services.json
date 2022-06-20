@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "432282593032",
+    "project_id": "flutter-fireship-demo",
+    "storage_bucket": "flutter-fireship-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432282593032:android:ba5bc7214559c49595eebd",
+        "android_client_info": {
+          "package_name": "com.example.fireship_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432282593032-qsjfqjg6qpi91i2ag3dodsuufsecka0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnlDdqgNu0iCg0Adv3_SAkmKJ7zwxnII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432282593032-qsjfqjg6qpi91i2ag3dodsuufsecka0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432282593032-hnm5rhgts988dbtdnse7l9s8sissvfps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.throwaway"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
